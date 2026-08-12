@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Metis New Tab",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "A modern, customizable new tab page with reliable wallpapers, quick links, and a lightweight task list.",
   "chrome_url_overrides": {
     "newtab": "index.html"

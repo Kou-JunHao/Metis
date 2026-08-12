@@ -100,7 +100,6 @@ const DEFAULT_SETTINGS = {
   defaultEngineId: 'google',
   customEnginesDict: {},
   quickLinks: [
-    { id: 'ql-v2ex', title: 'V2EX', url: 'https://v2ex.com/' },
     { id: 'ql-github', title: 'GitHub', url: 'https://github.com/' },
     { id: 'ql-bilibili', title: 'Bilibili', url: 'https://www.bilibili.com/' },
     { id: 'ql-youtube', title: 'YouTube', url: 'https://www.youtube.com/' }
