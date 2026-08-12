@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Metis New Tab",
+    "description": "The name of the extension."
+  },
+  "extDesc": {
+    "message": "A modern, customizable new tab page with stunning daily wallpapers, glassmorphism UI, and quick links management.",
+    "description": "The description of the extension."
+  }
+}
