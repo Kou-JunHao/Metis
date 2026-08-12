@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Metis 新标签页",
+    "description": "The name of the extension."
+  },
+  "extDesc": {
+    "message": "一款高颜值、极简且高度可定制的浏览器新标签页，集成了每日高清壁纸、高级毛玻璃 UI、动态视差交互与快捷网站管理功能。",
+    "description": "The description of the extension."
+  }
+}
