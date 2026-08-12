@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "build:ext": "npm run build && mkdir -p build && crx3 -p build/key.pem -o build/metis-chrome.crx dist/ && web-ext build -s dist/ -a build/ --overwrite-dest",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -16,8 +17,10 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.8",
+    "crx3": "^2.0.0",
     "postcss": "^8.5.26",
     "simple-icons": "^16.28.0",
-    "vite": "^8.2.0"
+    "vite": "^8.2.0",
+    "web-ext": "^10.6.0"
   }
 }
