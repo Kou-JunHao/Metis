@@ -1,0 +1,97 @@
+{
+  "search": {
+    "placeholder": "Search or type a URL",
+    "button": "Search",
+    "switchEngine": "Current engine: {engine}. Click to switch."
+  },
+  "quickLinks": {
+    "title": "Quick Links",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "addTitle": "Add Quick Link",
+    "editTitle": "Edit Quick Link",
+    "formName": "Name",
+    "formUrl": "URL",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "settings": {
+    "title": "Global Settings",
+    "close": "Close Settings",
+    "tabs": {
+      "appearance": "Appearance",
+      "clock": "Clock & Date",
+      "widgets": "Widgets",
+      "engines": "Search Engines",
+      "data": "Data & Backup",
+      "about": "About & Licenses"
+    },
+    "data": "Data Backup",
+    "about": "About",
+    "dangerZone": "Danger Zone",
+    "reset": "Reset all settings to default",
+    "aboutDesc": "A modern, customizable new tab page.",
+    "ossLicenses": "Open Source Licenses",
+    "appearance": {
+      "title": "Appearance",
+      "theme": "Color Theme",
+      "themeLight": "Light",
+      "themeDark": "Dark",
+      "themeAuto": "System",
+      "wallpaper": "Background",
+      "wallpaperBing": "Bing Daily Wallpaper",
+      "wallpaperWikimedia": "Wikimedia Commons",
+      "wallpaperPicsum": "Random (Picsum)",
+      "wallpaperCustom": "Custom URL",
+      "mask": "Glass Overlay",
+      "overlayStrength": "Overlay Opacity",
+      "blurStrength": "Blur Strength"
+    },
+    "options": {
+      "theme": {
+        "auto": "System Default",
+        "light": "Light Mode",
+        "dark": "Dark Mode"
+      },
+      "bg": {
+        "bing": "Bing Daily Wallpaper",
+        "wikimedia": "Wikimedia Commons",
+        "picsum": "Picsum Random",
+        "custom": "Custom Image URL",
+        "local": "Local Upload Wallpaper"
+      },
+      "clockStyle": {
+        "default": "Classic Bold",
+        "minimal": "Ultra Thin",
+        "editorial": "Editorial Serif",
+        "mono": "Geek Mono",
+        "neon": "Cyber Neon",
+        "outline": "Clean Outline",
+        "chroma": "Dynamic Chroma",
+        "glitch": "Glitch Split",
+        "gradient-gold": "Sunrise Gold",
+        "gradient-aurora": "Aurora Dream"
+      }
+    },
+    "clock": {
+      "title": "Clock Style",
+      "showDate": "Show Date",
+      "showSeconds": "Show Seconds",
+      "clock24h": "24-Hour Format",
+      "size": "Clock Size",
+      "position": "Vertical Position"
+    }
+  },
+  "clock": {
+    "currentTime": "Current Time",
+    "am": "AM",
+    "pm": "PM"
+  },
+  "app": {
+    "changeWallpaper": "Change Wallpaper"
+  },
+  "todo": {
+    "title": "To-Do"
+  }
+}

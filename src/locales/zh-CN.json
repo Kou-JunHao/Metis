@@ -1,0 +1,97 @@
+{
+  "search": {
+    "placeholder": "搜索或输入内容",
+    "button": "搜索",
+    "switchEngine": "当前搜索引擎：{engine}。点击切换"
+  },
+  "quickLinks": {
+    "title": "快捷链接",
+    "add": "添加",
+    "edit": "编辑",
+    "delete": "删除",
+    "addTitle": "添加快捷链接",
+    "editTitle": "编辑快捷链接",
+    "formName": "名称",
+    "formUrl": "网址",
+    "save": "保存",
+    "cancel": "取消"
+  },
+  "settings": {
+    "title": "全局设置",
+    "close": "关闭设置",
+    "tabs": {
+      "appearance": "外观与布局",
+      "clock": "时钟与日期",
+      "widgets": "桌面组件",
+      "engines": "搜索引擎",
+      "data": "数据与备份",
+      "about": "关于与许可"
+    },
+    "data": "数据备份",
+    "about": "关于",
+    "dangerZone": "危险区域",
+    "reset": "将所有设置恢复为默认值",
+    "aboutDesc": "一款现代化的浏览器起始页",
+    "ossLicenses": "开放源代码许可",
+    "appearance": {
+      "title": "外观样式",
+      "theme": "颜色主题",
+      "themeLight": "浅色",
+      "themeDark": "深色",
+      "themeAuto": "跟随系统",
+      "wallpaper": "背景壁纸",
+      "wallpaperBing": "必应每日壁纸",
+      "wallpaperWikimedia": "维基共享资源",
+      "wallpaperPicsum": "随机风景 (Picsum)",
+      "wallpaperCustom": "自定义 URL",
+      "mask": "毛玻璃遮罩层",
+      "overlayStrength": "遮罩不透明度",
+      "blurStrength": "模糊强度"
+    },
+    "options": {
+      "theme": {
+        "auto": "跟随系统",
+        "light": "浅色模式",
+        "dark": "深色模式"
+      },
+      "bg": {
+        "bing": "Bing 每日壁纸",
+        "wikimedia": "Wikimedia 风景",
+        "picsum": "Picsum 随机照片",
+        "custom": "自定义图片 URL",
+        "local": "本地上传壁纸"
+      },
+      "clockStyle": {
+        "default": "经典粗体",
+        "minimal": "极简纤细",
+        "editorial": "衬线典雅",
+        "mono": "极客等宽",
+        "neon": "赛博霓虹",
+        "outline": "极简镂空",
+        "chroma": "流光溢彩",
+        "glitch": "故障错位",
+        "gradient-gold": "晨曦金辉",
+        "gradient-aurora": "极光梦幻"
+      }
+    },
+    "clock": {
+      "title": "时钟样式",
+      "showDate": "显示日期",
+      "showSeconds": "显示秒数",
+      "clock24h": "24 小时制",
+      "size": "时钟大小",
+      "position": "整体垂直位置"
+    }
+  },
+  "clock": {
+    "currentTime": "当前时间",
+    "am": "上午",
+    "pm": "下午"
+  },
+  "app": {
+    "changeWallpaper": "更换壁纸"
+  },
+  "todo": {
+    "title": "待办事项"
+  }
+}
