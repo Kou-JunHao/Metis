@@ -170,8 +170,8 @@ onMounted(() => {
   border-radius: 16px;
   background: var(--surface);
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
-  backdrop-filter: blur(15px);
   -webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
   transition: all 0.3s cubic-bezier(0.25, 1, 0.5, 1);
 }
 

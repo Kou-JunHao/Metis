@@ -87,8 +87,8 @@ onUnmounted(() => {
   padding: 4px;
   list-style: none;
   background: var(--surface);
-  backdrop-filter: blur(25px);
   -webkit-backdrop-filter: blur(25px);
+  backdrop-filter: blur(25px);
   border-radius: 12px;
   box-shadow: inset 0 0 0 1px var(--border), 0 10px 40px var(--shadow-color, rgba(0,0,0,0.2));
 }

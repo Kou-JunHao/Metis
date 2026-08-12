@@ -295,8 +295,8 @@ dialog {
 
 dialog::backdrop {
   background: var(--shadow-color, rgba(0,0,0,0.3));
-  backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
 }
 
 .close-button {
@@ -453,8 +453,8 @@ dialog::backdrop {
   overflow-y: auto;
   background: rgba(20, 20, 25, 0.95);
   box-shadow: 0 10px 30px var(--shadow-color, rgba(0,0,0,0.3));
-  backdrop-filter: blur(25px);
   -webkit-backdrop-filter: blur(25px);
+  backdrop-filter: blur(25px);
 }
 
 .custom-select-option {
@@ -822,8 +822,8 @@ dialog::backdrop {
   overflow: hidden;
   background: var(--modal-bg);
   box-shadow: var(--shadow);
-  backdrop-filter: blur(35px);
   -webkit-backdrop-filter: blur(35px);
+  backdrop-filter: blur(35px);
 }
 
 .compact-dialog-content {
@@ -863,8 +863,8 @@ dialog::backdrop {
   border-radius: 12px;
   background: var(--surface);
   box-shadow: 0 10px 30px var(--shadow-color, rgba(0,0,0,0.3));
-  backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
+  backdrop-filter: blur(20px);
 }
 
 .context-menu-item {

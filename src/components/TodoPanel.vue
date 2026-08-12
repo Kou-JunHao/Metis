@@ -110,8 +110,8 @@ defineExpose({
   border-left: 1px solid var(--border);
   background: var(--modal-bg);
   box-shadow: -10px 0 40px rgba(0, 0, 0, 0.3);
-  backdrop-filter: blur(35px);
   -webkit-backdrop-filter: blur(35px);
+  backdrop-filter: blur(35px);
   opacity: 0;
   transform: translateX(100%);
   transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.35s ease;

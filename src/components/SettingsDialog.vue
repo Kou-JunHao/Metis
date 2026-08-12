@@ -481,8 +481,8 @@ defineExpose({
   overflow: hidden;
   background: var(--modal-bg);
   box-shadow: 0 25px 80px rgba(0, 0, 0, 0.4);
-  backdrop-filter: blur(40px) saturate(180%);
   -webkit-backdrop-filter: blur(40px) saturate(180%);
+  backdrop-filter: blur(40px) saturate(180%);
   padding: 0;
   
   /* Animations */
